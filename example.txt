@@ -4,4 +4,8 @@ f1: Adding more content to example.txt
 =======
 Adding more text to f1
 >>>>>>> 8f547fe4e541cbc22105939bfeb4e0e5b2e47485
+<<<<<<< HEAD
 S2: Adding conflicting content
+=======
+S1: Adding conflicting content
+>>>>>>> eb0c5fa74e5653a692b2710ee48cc8f26a270fac

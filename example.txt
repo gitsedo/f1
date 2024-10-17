@@ -1,2 +1,6 @@
 Hello from f1
+<<<<<<< HEAD
 f1: Adding more content to example.txt
+=======
+Adding more text to f1
+>>>>>>> 8f547fe4e541cbc22105939bfeb4e0e5b2e47485
